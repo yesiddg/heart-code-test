@@ -1,3 +1,18 @@
+// We use BEM for classes naming. So, main class should be the name of the component and then
+// to use underscore for the names of the subcomponents or --modifier for alternative versions of the component.
+
 .home-page {
   
+}
+
+.home-page__inner-component {
+
+}
+
+.home-page__inner-component--md {
+
+}
+
+.home-page__inner-component--rounded {
+
 }
